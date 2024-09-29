@@ -1,5 +1,3 @@
-بالطبع! إليك محتوى ملف README كنص:
-
 ---
 
 # Telegram Webhook Bot
